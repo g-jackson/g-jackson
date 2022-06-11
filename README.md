@@ -1,4 +1,9 @@
-### Howdy
+### Welcome!
+
+My portofolio site can be found here: https://github.com/g-jackson/g-jackson
+And can find my public repos below.
+
+Have a great day!
 
 <!--
 **g-jackson/g-jackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
