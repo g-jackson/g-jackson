@@ -1,6 +1,6 @@
 ### Welcome!
 
-My portofolio site can be found here: https://github.com/g-jackson/g-jackson
+My portofolio site can be found [here](https://g-jackson.github.io/)
 And can find my public repos below.
 
 Have a great day!
